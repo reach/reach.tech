@@ -12,3 +12,6 @@ deploy:
       --token $FIREBASE_TOKEN --non-interactive --force
     on:
       branch: master
+env:
+  global:
+    secure: ptLGnM7zrMkcPn9BUD+2VZHy9TNsurI3r1YdNBok+yOjSbKpRXOPwz/Yqcxn9YNfzWZR31MJ1aj/fzc9pss4cUuVAcoZXYsWe7QDvFH5jmVX3vc3oEJeQMMWyFxmG+wkstS8NYsNMe1pFE899eDNLS363MUQyQ/2pqHLkdqptveYOqoZvpYBgKiUsTsNWstRmF7TMQ627GG14JusMpIAz6OxAxBYtHar2vD/2q+L/6rKBblXBtKN6idyfLuUEYANEv60ijoL3de9rHpmVen6ZZMS/9pCi+IsiFKfYGziLzznBjkOSARuvWs2rMCPHEjqBfRelaTeUDXWyv7AGUsukRZUloXs2FbNET25iDfZQ6pSN9Yo5SzXLkbMOJJxnExi4mC4Q+nDUT4gwlS+7QeamE7yYQLwvo+BxJPbosBCk+3qBFILrOesTHaCnH50EyqxqI+Cv4JZUBDL2Nvx2tORrZxznPfle7qfNtMRbObID7Yj4aicb3aJGa8dYMbuxvdBd8bv5AOq/IA4Wkj8hWebFwyA8UAxYwFGXZzmR81Mv6tu8NqYc5aESBmjozbZA+GpAetsYzfzJAGTP6iiaaOMGK6GyvSzTWlBVeOC74Qb11U5n+jhNtFQSMWH2FWFVrIRWVvPtNZDRVgxLhg+JBkvKArvo5ZEmMv0EilczZCIrQ0=
