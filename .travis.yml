@@ -8,7 +8,7 @@ before_deploy:
 deploy:
   - provider: script
     skip_cleanup: true
-    script: $(npm bin -g)/firebase deploy --project reach-ui --message "https://travis-ci.com/$TRAVIS_REPO_SLUG/builds/$TRAVIS_BUILD_ID"
+    script: $(npm bin -g)/firebase deploy --project reach-2ccfb --message "https://travis-ci.com/$TRAVIS_REPO_SLUG/builds/$TRAVIS_BUILD_ID"
       --token $FIREBASE_TOKEN --non-interactive --force
     on:
       branch: master
