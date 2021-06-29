@@ -1,0 +1,2 @@
+(self.webpackChunkreach_ui_website=self.webpackChunkreach_ui_website||[]).push([[883],{9616:function(e,t,u){"use strict";u.r(t);var n=u(7294),s=u(8801);t.default=function(){return n.createElement(s.Z,null,n.createElement("h1",null,"NOT FOUND"),n.createElement("p",null,"You just hit a route that doesn't exist... the sadness."))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-659fc2f30e7c11c58e88.js.map
